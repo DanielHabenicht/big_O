@@ -2,6 +2,8 @@
 big_O
 =====
 
+> THIS IS A FORK! Use at your own risk as there might be unstable changes. 
+
 big_O is a Python module to estimate the time complexity of Python code from
 its execution time.  It can be used to analyze how functions scale with inputs
 of increasing size.
@@ -151,7 +153,7 @@ dynamic programming and is linear O(n):
     Linear: time = -1.8E-06 + 7.3E-06*n (sec)
 
 Report Generation
--------
+-----------------
 
 This feature allows users to generate a report based on the outputs received from
 calling the :code:`big-o` function.

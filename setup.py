@@ -6,12 +6,12 @@ with open('README.rst') as readme_file:
 
 
 setup(
-    name='big_O',
-    version='0.10.2',
-    description='Empirical estimation of time complexity from execution time',
+    name='big_O_latest',
+    version='0.10.3',
+    description='Empirical estimation of time complexity from execution time, more recent version',
     author='Pietro Berkes',
     author_email='pietro.berkes@googlemail.com',
-    url='https://github.com/pberkes/big_O',
+    url='https://github.com/DanielHabenicht/big_O',
     license='LICENSE.txt',
     long_description=long_description,
     long_description_content_type='text/x-rst',
